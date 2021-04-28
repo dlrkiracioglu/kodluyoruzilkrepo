@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End egitiminde olusturdug
 ## Installation
 Oncelikle projeyi clonlayin.
 
-`https://github.com/kestanecanavari/kodluyoruzilkrepo.git`
+```https://github.com/kestanecanavari/kodluyoruzilkrepo.git```
 
 ## Usage
 
