@@ -1,3 +1,3 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo (Kodluyoruz)[kodluyoruz.dev]
+Bu repo (Kodluyoruz)[kodluyoruz.dev] egitiminde
