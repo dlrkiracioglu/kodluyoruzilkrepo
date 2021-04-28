@@ -13,8 +13,8 @@ Projeyi clonladiktan sonra VSC programinda aciniz.
 Linux icin:
 
 ``` cd kodluyoruzilkrepo <br>
-code . ```
-
+code . 
+```
 ## Contributing
 Pull requestler kabul edilir. Buyuk degisiklikler icin once neyi degistirmek istediginizi tartirmak icin bir konu aciniz.
 
