@@ -12,7 +12,7 @@ Oncelikle projeyi clonlayin.
 Projeyi clonladiktan sonra VSC programinda aciniz.
 Linux icin:
 
-` cd kodluyoruzilkrepo
+` cd kodluyoruzilkrepo <br>
 code . `
 
 ## Contributing
